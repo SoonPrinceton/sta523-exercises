@@ -2,6 +2,8 @@ library(rvest)
 library(tidyverse)
 library(jsonlite)
 
+## get_lq.R example
+
 url = "https://www.wyndhamhotels.com/laquinta/locations"
 
 x = read_html(url) |>
