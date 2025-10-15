@@ -1,0 +1,5 @@
+name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
+fig2_plot|stem|a810002b95a8d8e9|b003026a107a8830|2c530c1562a7fbd1|1857505550||t20376.6308919391s|s90411b|90411|rds|local|vector|||0.183||
+fig1_png|stem|2248cf18c57efe4c|193e3d099bb86945|2c530c1562a7fbd1|2045012516|fig1/fig.png|t20376.6309479986s|s724976b|724976|file|local|vector|||4.813||
+fig2_png|stem|4fe0855c3803f2ea|2db8e689b98ba311|52b701e8379ef820|-2090021882|fig2/fig.png|t20376.6309552269s|s61243b|61243|file|local|vector|||0.58||
+paper_html|stem||d2f881e054f38fb3|7ca10d4711a51bf4|832787821||t20376.6309570806s||0|file|local|vector|||0.122||! Error running quarto CLI from R. Caused by error: ! Native call to `processx_exec` failed Caused by error: ! cannot start processx process '/usr/local/quarto/bin/quarto' (system error 2, No such file or directory) @unix/processx.c:611 (processx_exec)

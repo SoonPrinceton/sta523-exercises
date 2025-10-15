@@ -1,5 +1,5 @@
 ---
-title: "Makefile Example"
+title: "Makefile Example (Basic)"
 author: "Colin Rundel"
 date: "10/14/2021"
 format: 
